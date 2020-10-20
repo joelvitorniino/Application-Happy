@@ -9,3 +9,5 @@ Tecnologias usadas:
 - Leaflet
 - Api Whatsapp
 - Handlebars
+- Nodemon
+- Nodejs
